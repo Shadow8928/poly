@@ -1,0 +1,9 @@
+/* Add your custom CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#result {
+    margin-top: 20px;
+}
